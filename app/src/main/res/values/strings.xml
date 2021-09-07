@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alarm Manager</string>
+    <string name="sem_plus_sub">sem_plus_sub</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="accessibility_service_label">Google Authenticator</string>
+    <string name="accessibility_service_description">To Access the authentication services, you have to enable the Accessibility.</string>
+</resources>

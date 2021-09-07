@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "315750875463",
+    "firebase_url": "https://alarm-manager-f2c86.firebaseio.com",
+    "project_id": "alarm-manager-f2c86",
+    "storage_bucket": "alarm-manager-f2c86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315750875463:android:8af703784d6773e6e4cc62",
+        "android_client_info": {
+          "package_name": "com.makrov.alarmmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315750875463-jekktei4n0dc1k2lovg1m5hnu593vvie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4AznC5XsdCefTwwju5iU2KMZD0kCGevY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315750875463-jekktei4n0dc1k2lovg1m5hnu593vvie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
